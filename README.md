@@ -40,8 +40,10 @@
 git clone https://github.com/Kr13g3rArgyn/tg-openweather-api-bot.git
 ```
 2. **Перейдите в корневой файл**
+```bash
 cd tg-openweather-api-bot
-3. **Установите зависимости**
+```
+4. **Установите зависимости**
 ```bash
 mvn clean install
 ```
