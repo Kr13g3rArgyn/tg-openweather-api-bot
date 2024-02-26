@@ -51,5 +51,5 @@ mvn clean install
 ```bash
 mvn spring-boot:run
 ```
-5. **Найдите бота в ТГ и начните пользоваться**
+5. **Найдите бота в ТГ и начните пользоваться(@Krieger_is_Rich обратитесь в личку для получение application.yml файла и META-INF для api-key)**
 https://t.me/javaWeatherApi_bot
